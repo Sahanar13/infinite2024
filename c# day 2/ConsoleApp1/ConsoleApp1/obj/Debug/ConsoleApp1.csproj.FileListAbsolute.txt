@@ -1,0 +1,2 @@
+C:\sahana 13\sahana r dotnet\c# day 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\sahana 13\sahana r dotnet\c# day 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
