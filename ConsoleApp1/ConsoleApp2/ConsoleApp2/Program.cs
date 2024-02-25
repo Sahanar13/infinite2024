@@ -25,22 +25,22 @@ namespace ConsoleApp2
 
         public void Ref_value_conversion()
         {
-            int i = 10;  //value type
-            object o;  //reference type
+            int i = 10;  
+            object o;  
 
-            o = i;  //boxing
+            o = i;  
             Console.WriteLine(o);
             float Marks;
             Console.WriteLine("Enter Marks :");
-            Marks = float.Parse(Console.ReadLine());  //unboxing
+            Marks = float.Parse(Console.ReadLine());  
             Console.WriteLine("Marks thru Parse" + " " + Marks);
-            //the above can also be written using conversion function as below
+           
 
             Console.WriteLine("Enter Marks :");
             Marks = Convert.ToSingle(Console.ReadLine());
             Console.WriteLine("Marks Thru Conversion " + " " + Marks);
             string s1 = "ABC";
-            o = s1;   //implicit between 2 objects
+            o = s1;   
             Console.WriteLine(s1);
             Console.WriteLine(o);
         }
