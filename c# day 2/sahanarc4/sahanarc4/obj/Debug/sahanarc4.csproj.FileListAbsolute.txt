@@ -1,0 +1,7 @@
+C:\sahana 13\sahana r dotnet\c# day 2\sahanarc4\sahanarc4\bin\Debug\sahanarc4.exe.config
+C:\sahana 13\sahana r dotnet\c# day 2\sahanarc4\sahanarc4\bin\Debug\sahanarc4.exe
+C:\sahana 13\sahana r dotnet\c# day 2\sahanarc4\sahanarc4\bin\Debug\sahanarc4.pdb
+C:\sahana 13\sahana r dotnet\c# day 2\sahanarc4\sahanarc4\obj\Debug\sahanarc4.csproj.AssemblyReference.cache
+C:\sahana 13\sahana r dotnet\c# day 2\sahanarc4\sahanarc4\obj\Debug\sahanarc4.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\c# day 2\sahanarc4\sahanarc4\obj\Debug\sahanarc4.exe
+C:\sahana 13\sahana r dotnet\c# day 2\sahanarc4\sahanarc4\obj\Debug\sahanarc4.pdb

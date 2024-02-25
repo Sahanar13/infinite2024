@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{310C9E75-C4C8-423E-B2D8-9AA1B728AB3C}</ProjectGuid>
+    <ProjectGuid>{FC7C91DE-D0CA-4BB1-A7C1-77A77F7D7947}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Sahanarc2</RootNamespace>
-    <AssemblyName>Sahanarc2</AssemblyName>
+    <RootNamespace>sahanarc3</RootNamespace>
+    <AssemblyName>sahanarc3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="arreg\SingleDimension.cs" />
-    <Compile Include="Class1.cs" />
-    <Compile Include="Class2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
