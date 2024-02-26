@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Numbers", "Two Numbers\Two Numbers.csproj", "{56917C0F-8932-4E0F-996A-98D542204565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56917C0F-8932-4E0F-996A-98D542204565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56917C0F-8932-4E0F-996A-98D542204565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56917C0F-8932-4E0F-996A-98D542204565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56917C0F-8932-4E0F-996A-98D542204565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982B69DD-D9C5-4B83-B809-18948FAF5F4B}
+	EndGlobalSection
+EndGlobal

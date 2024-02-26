@@ -1,0 +1,7 @@
+C:\sahana 13\sahana r dotnet\C# Assignment\Array and Print\Array and Print\bin\Debug\Array and Print.exe.config
+C:\sahana 13\sahana r dotnet\C# Assignment\Array and Print\Array and Print\bin\Debug\Array and Print.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\Array and Print\Array and Print\bin\Debug\Array and Print.pdb
+C:\sahana 13\sahana r dotnet\C# Assignment\Array and Print\Array and Print\obj\Debug\Array and Print.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\C# Assignment\Array and Print\Array and Print\obj\Debug\Array and Print.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\Array and Print\Array and Print\obj\Debug\Array and Print.pdb
+C:\sahana 13\sahana r dotnet\C# Assignment\Array and Print\Array and Print\obj\Debug\Array and Print.csproj.AssemblyReference.cache

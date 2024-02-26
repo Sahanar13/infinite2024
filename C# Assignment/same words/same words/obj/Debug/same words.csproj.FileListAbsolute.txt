@@ -1,0 +1,6 @@
+C:\sahana 13\sahana r dotnet\C# Assignment\same words\same words\bin\Debug\same words.exe.config
+C:\sahana 13\sahana r dotnet\C# Assignment\same words\same words\bin\Debug\same words.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\same words\same words\bin\Debug\same words.pdb
+C:\sahana 13\sahana r dotnet\C# Assignment\same words\same words\obj\Debug\same words.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\C# Assignment\same words\same words\obj\Debug\same words.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\same words\same words\obj\Debug\same words.pdb

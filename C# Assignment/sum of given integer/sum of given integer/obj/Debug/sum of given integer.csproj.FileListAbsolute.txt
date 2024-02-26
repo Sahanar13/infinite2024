@@ -1,0 +1,6 @@
+C:\sahana 13\sahana r dotnet\C# Assignment\sum of given integer\sum of given integer\bin\Debug\sum of given integer.exe.config
+C:\sahana 13\sahana r dotnet\C# Assignment\sum of given integer\sum of given integer\bin\Debug\sum of given integer.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\sum of given integer\sum of given integer\bin\Debug\sum of given integer.pdb
+C:\sahana 13\sahana r dotnet\C# Assignment\sum of given integer\sum of given integer\obj\Debug\sum of given integer.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\C# Assignment\sum of given integer\sum of given integer\obj\Debug\sum of given integer.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\sum of given integer\sum of given integer\obj\Debug\sum of given integer.pdb
