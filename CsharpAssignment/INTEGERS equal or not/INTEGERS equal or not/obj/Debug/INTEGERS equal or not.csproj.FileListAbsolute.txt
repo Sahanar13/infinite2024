@@ -1,0 +1,7 @@
+C:\sahana 13\sahana r dotnet\C# Assignment\INTEGERS equal or not\INTEGERS equal or not\bin\Debug\INTEGERS equal or not.exe.config
+C:\sahana 13\sahana r dotnet\C# Assignment\INTEGERS equal or not\INTEGERS equal or not\bin\Debug\INTEGERS equal or not.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\INTEGERS equal or not\INTEGERS equal or not\bin\Debug\INTEGERS equal or not.pdb
+C:\sahana 13\sahana r dotnet\C# Assignment\INTEGERS equal or not\INTEGERS equal or not\obj\Debug\INTEGERS equal or not.csproj.AssemblyReference.cache
+C:\sahana 13\sahana r dotnet\C# Assignment\INTEGERS equal or not\INTEGERS equal or not\obj\Debug\INTEGERS equal or not.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\C# Assignment\INTEGERS equal or not\INTEGERS equal or not\obj\Debug\INTEGERS equal or not.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\INTEGERS equal or not\INTEGERS equal or not\obj\Debug\INTEGERS equal or not.pdb

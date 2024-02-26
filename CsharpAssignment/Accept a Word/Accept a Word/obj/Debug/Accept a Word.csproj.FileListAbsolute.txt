@@ -1,0 +1,6 @@
+C:\sahana 13\sahana r dotnet\C# Assignment\Accept a Word\Accept a Word\bin\Debug\Accept a Word.exe.config
+C:\sahana 13\sahana r dotnet\C# Assignment\Accept a Word\Accept a Word\bin\Debug\Accept a Word.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\Accept a Word\Accept a Word\bin\Debug\Accept a Word.pdb
+C:\sahana 13\sahana r dotnet\C# Assignment\Accept a Word\Accept a Word\obj\Debug\Accept a Word.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\C# Assignment\Accept a Word\Accept a Word\obj\Debug\Accept a Word.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\Accept a Word\Accept a Word\obj\Debug\Accept a Word.pdb

@@ -1,0 +1,6 @@
+C:\sahana 13\sahana r dotnet\C# Assignment\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+C:\sahana 13\sahana r dotnet\C# Assignment\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.pdb
+C:\sahana 13\sahana r dotnet\C# Assignment\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\C# Assignment\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.exe
+C:\sahana 13\sahana r dotnet\C# Assignment\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.pdb
