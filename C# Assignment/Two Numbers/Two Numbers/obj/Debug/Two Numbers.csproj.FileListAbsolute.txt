@@ -1,6 +1,0 @@
-C:\sahana 13\sahana r dotnet\C# Assignment\Two Numbers\Two Numbers\bin\Debug\Two Numbers.exe.config
-C:\sahana 13\sahana r dotnet\C# Assignment\Two Numbers\Two Numbers\bin\Debug\Two Numbers.exe
-C:\sahana 13\sahana r dotnet\C# Assignment\Two Numbers\Two Numbers\bin\Debug\Two Numbers.pdb
-C:\sahana 13\sahana r dotnet\C# Assignment\Two Numbers\Two Numbers\obj\Debug\Two Numbers.csproj.CoreCompileInputs.cache
-C:\sahana 13\sahana r dotnet\C# Assignment\Two Numbers\Two Numbers\obj\Debug\Two Numbers.exe
-C:\sahana 13\sahana r dotnet\C# Assignment\Two Numbers\Two Numbers\obj\Debug\Two Numbers.pdb

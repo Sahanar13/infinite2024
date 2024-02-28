@@ -1,6 +1,0 @@
-C:\sahana 13\sahana r dotnet\C# Assignment\Reverse Word\Reverse Word\bin\Debug\Reverse Word.exe.config
-C:\sahana 13\sahana r dotnet\C# Assignment\Reverse Word\Reverse Word\bin\Debug\Reverse Word.exe
-C:\sahana 13\sahana r dotnet\C# Assignment\Reverse Word\Reverse Word\bin\Debug\Reverse Word.pdb
-C:\sahana 13\sahana r dotnet\C# Assignment\Reverse Word\Reverse Word\obj\Debug\Reverse Word.csproj.CoreCompileInputs.cache
-C:\sahana 13\sahana r dotnet\C# Assignment\Reverse Word\Reverse Word\obj\Debug\Reverse Word.exe
-C:\sahana 13\sahana r dotnet\C# Assignment\Reverse Word\Reverse Word\obj\Debug\Reverse Word.pdb

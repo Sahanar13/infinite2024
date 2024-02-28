@@ -37,7 +37,7 @@ namespace Sahana_1
     }
     class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             //Student stud1 = new Student();  //calling the default constructor
             //stud1.AcceptStudent();
