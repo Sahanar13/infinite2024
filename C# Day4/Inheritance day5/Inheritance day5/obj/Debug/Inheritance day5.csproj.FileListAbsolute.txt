@@ -1,0 +1,7 @@
+C:\sahana 13\sahana r dotnet\C# Day4\Inheritance day5\Inheritance day5\obj\Debug\Inheritance day5.csproj.AssemblyReference.cache
+C:\sahana 13\sahana r dotnet\C# Day4\Inheritance day5\Inheritance day5\obj\Debug\Inheritance day5.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\C# Day4\Inheritance day5\Inheritance day5\bin\Debug\Inheritance day5.exe.config
+C:\sahana 13\sahana r dotnet\C# Day4\Inheritance day5\Inheritance day5\bin\Debug\Inheritance day5.exe
+C:\sahana 13\sahana r dotnet\C# Day4\Inheritance day5\Inheritance day5\bin\Debug\Inheritance day5.pdb
+C:\sahana 13\sahana r dotnet\C# Day4\Inheritance day5\Inheritance day5\obj\Debug\Inheritance day5.exe
+C:\sahana 13\sahana r dotnet\C# Day4\Inheritance day5\Inheritance day5\obj\Debug\Inheritance day5.pdb
