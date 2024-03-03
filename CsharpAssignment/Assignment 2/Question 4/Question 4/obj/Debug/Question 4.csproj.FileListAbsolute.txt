@@ -1,0 +1,6 @@
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 4\Question 4\bin\Debug\Question 4.exe.config
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 4\Question 4\bin\Debug\Question 4.exe
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 4\Question 4\bin\Debug\Question 4.pdb
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 4\Question 4\obj\Debug\Question 4.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 4\Question 4\obj\Debug\Question 4.exe
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 4\Question 4\obj\Debug\Question 4.pdb

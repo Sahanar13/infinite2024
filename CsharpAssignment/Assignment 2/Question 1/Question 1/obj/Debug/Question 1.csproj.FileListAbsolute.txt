@@ -1,0 +1,7 @@
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 1\Question 1\bin\Debug\Question 1.exe.config
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 1\Question 1\bin\Debug\Question 1.exe
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 1\Question 1\bin\Debug\Question 1.pdb
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 1\Question 1\obj\Debug\Question 1.csproj.AssemblyReference.cache
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 1\Question 1\obj\Debug\Question 1.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 1\Question 1\obj\Debug\Question 1.exe
+C:\sahana 13\sahana r dotnet\CsharpAssignment\Assignment 2\Question 1\Question 1\obj\Debug\Question 1.pdb
