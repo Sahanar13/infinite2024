@@ -1,7 +1,0 @@
-C:\sahana 13\sahana r dotnet\C# Assignment\Copy of elements array\Copy of elements array\bin\Debug\Copy of elements array.exe.config
-C:\sahana 13\sahana r dotnet\C# Assignment\Copy of elements array\Copy of elements array\bin\Debug\Copy of elements array.exe
-C:\sahana 13\sahana r dotnet\C# Assignment\Copy of elements array\Copy of elements array\bin\Debug\Copy of elements array.pdb
-C:\sahana 13\sahana r dotnet\C# Assignment\Copy of elements array\Copy of elements array\obj\Debug\Copy of elements array.csproj.AssemblyReference.cache
-C:\sahana 13\sahana r dotnet\C# Assignment\Copy of elements array\Copy of elements array\obj\Debug\Copy of elements array.csproj.CoreCompileInputs.cache
-C:\sahana 13\sahana r dotnet\C# Assignment\Copy of elements array\Copy of elements array\obj\Debug\Copy of elements array.exe
-C:\sahana 13\sahana r dotnet\C# Assignment\Copy of elements array\Copy of elements array\obj\Debug\Copy of elements array.pdb

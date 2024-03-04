@@ -1,7 +1,0 @@
-C:\sahana 13\sahana r dotnet\C# Day4\Day7\Day7\bin\Debug\Day7.exe.config
-C:\sahana 13\sahana r dotnet\C# Day4\Day7\Day7\bin\Debug\Day7.exe
-C:\sahana 13\sahana r dotnet\C# Day4\Day7\Day7\bin\Debug\Day7.pdb
-C:\sahana 13\sahana r dotnet\C# Day4\Day7\Day7\obj\Debug\Day7.csproj.AssemblyReference.cache
-C:\sahana 13\sahana r dotnet\C# Day4\Day7\Day7\obj\Debug\Day7.csproj.CoreCompileInputs.cache
-C:\sahana 13\sahana r dotnet\C# Day4\Day7\Day7\obj\Debug\Day7.exe
-C:\sahana 13\sahana r dotnet\C# Day4\Day7\Day7\obj\Debug\Day7.pdb

@@ -1,7 +1,0 @@
-C:\sahana 13\sahana r dotnet\C# Day4\Overloading DynamicBinding\Overloading DynamicBinding\bin\Debug\Overloading DynamicBinding.exe.config
-C:\sahana 13\sahana r dotnet\C# Day4\Overloading DynamicBinding\Overloading DynamicBinding\bin\Debug\Overloading DynamicBinding.exe
-C:\sahana 13\sahana r dotnet\C# Day4\Overloading DynamicBinding\Overloading DynamicBinding\bin\Debug\Overloading DynamicBinding.pdb
-C:\sahana 13\sahana r dotnet\C# Day4\Overloading DynamicBinding\Overloading DynamicBinding\obj\Debug\Overloading DynamicBinding.csproj.AssemblyReference.cache
-C:\sahana 13\sahana r dotnet\C# Day4\Overloading DynamicBinding\Overloading DynamicBinding\obj\Debug\Overloading DynamicBinding.csproj.CoreCompileInputs.cache
-C:\sahana 13\sahana r dotnet\C# Day4\Overloading DynamicBinding\Overloading DynamicBinding\obj\Debug\Overloading DynamicBinding.exe
-C:\sahana 13\sahana r dotnet\C# Day4\Overloading DynamicBinding\Overloading DynamicBinding\obj\Debug\Overloading DynamicBinding.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sahana 13\\sahana r dotnet\\Assignment\\C# Assignment\\Assignment-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D15C95BC-F539-47E2-9F8D-52DC582E8C28}|Assignment-1\\Assignment-1.csproj|c:\\sahana 13\\sahana r dotnet\\assignment\\c# assignment\\assignment-1\\assignment-1\\integers equal or not.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15C95BC-F539-47E2-9F8D-52DC582E8C28}|Assignment-1\\Assignment-1.csproj|solutionrelative:assignment-1\\integers equal or not.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15C95BC-F539-47E2-9F8D-52DC582E8C28}|Assignment-1\\Assignment-1.csproj|c:\\sahana 13\\sahana r dotnet\\assignment\\c# assignment\\assignment-1\\assignment-1\\copy_of_elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15C95BC-F539-47E2-9F8D-52DC582E8C28}|Assignment-1\\Assignment-1.csproj|solutionrelative:assignment-1\\copy_of_elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15C95BC-F539-47E2-9F8D-52DC582E8C28}|Assignment-1\\Assignment-1.csproj|c:\\sahana 13\\sahana r dotnet\\assignment\\c# assignment\\assignment-1\\assignment-1\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15C95BC-F539-47E2-9F8D-52DC582E8C28}|Assignment-1\\Assignment-1.csproj|solutionrelative:assignment-1\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15C95BC-F539-47E2-9F8D-52DC582E8C28}|Assignment-1\\Assignment-1.csproj|c:\\sahana 13\\sahana r dotnet\\assignment\\c# assignment\\assignment-1\\assignment-1\\array_and_print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15C95BC-F539-47E2-9F8D-52DC582E8C28}|Assignment-1\\Assignment-1.csproj|solutionrelative:assignment-1\\array_and_print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Integers Equal Or Not.cs",
+              "DocumentMoniker": "C:\\sahana 13\\sahana r dotnet\\Assignment\\C# Assignment\\Assignment-1\\Assignment-1\\Integers Equal Or Not.cs",
+              "RelativeDocumentMoniker": "Assignment-1\\Integers Equal Or Not.cs",
+              "ToolTip": "C:\\sahana 13\\sahana r dotnet\\Assignment\\C# Assignment\\Assignment-1\\Assignment-1\\Integers Equal Or Not.cs",
+              "RelativeToolTip": "Assignment-1\\Integers Equal Or Not.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:22:45.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Copy_Of_Elements.cs",
+              "DocumentMoniker": "C:\\sahana 13\\sahana r dotnet\\Assignment\\C# Assignment\\Assignment-1\\Assignment-1\\Copy_Of_Elements.cs",
+              "RelativeDocumentMoniker": "Assignment-1\\Copy_Of_Elements.cs",
+              "ToolTip": "C:\\sahana 13\\sahana r dotnet\\Assignment\\C# Assignment\\Assignment-1\\Assignment-1\\Copy_Of_Elements.cs",
+              "RelativeToolTip": "Assignment-1\\Copy_Of_Elements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:22:44.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Average.cs",
+              "DocumentMoniker": "C:\\sahana 13\\sahana r dotnet\\Assignment\\C# Assignment\\Assignment-1\\Assignment-1\\Average.cs",
+              "RelativeDocumentMoniker": "Assignment-1\\Average.cs",
+              "ToolTip": "C:\\sahana 13\\sahana r dotnet\\Assignment\\C# Assignment\\Assignment-1\\Assignment-1\\Average.cs",
+              "RelativeToolTip": "Assignment-1\\Average.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:22:42.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Array_and_Print.cs",
+              "DocumentMoniker": "C:\\sahana 13\\sahana r dotnet\\Assignment\\C# Assignment\\Assignment-1\\Assignment-1\\Array_and_Print.cs",
+              "RelativeDocumentMoniker": "Assignment-1\\Array_and_Print.cs",
+              "ToolTip": "C:\\sahana 13\\sahana r dotnet\\Assignment\\C# Assignment\\Assignment-1\\Assignment-1\\Array_and_Print.cs",
+              "RelativeToolTip": "Assignment-1\\Array_and_Print.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:22:38.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

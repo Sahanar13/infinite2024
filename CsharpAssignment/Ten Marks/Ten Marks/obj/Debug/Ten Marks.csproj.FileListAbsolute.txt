@@ -1,7 +1,0 @@
-C:\sahana 13\sahana r dotnet\C# Assignment\Ten Marks\Ten Marks\bin\Debug\Ten Marks.exe.config
-C:\sahana 13\sahana r dotnet\C# Assignment\Ten Marks\Ten Marks\bin\Debug\Ten Marks.exe
-C:\sahana 13\sahana r dotnet\C# Assignment\Ten Marks\Ten Marks\bin\Debug\Ten Marks.pdb
-C:\sahana 13\sahana r dotnet\C# Assignment\Ten Marks\Ten Marks\obj\Debug\Ten Marks.csproj.AssemblyReference.cache
-C:\sahana 13\sahana r dotnet\C# Assignment\Ten Marks\Ten Marks\obj\Debug\Ten Marks.csproj.CoreCompileInputs.cache
-C:\sahana 13\sahana r dotnet\C# Assignment\Ten Marks\Ten Marks\obj\Debug\Ten Marks.exe
-C:\sahana 13\sahana r dotnet\C# Assignment\Ten Marks\Ten Marks\obj\Debug\Ten Marks.pdb

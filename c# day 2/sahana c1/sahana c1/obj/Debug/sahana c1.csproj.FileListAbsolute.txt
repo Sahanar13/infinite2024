@@ -1,7 +1,0 @@
-C:\sahana 13\sahana r dotnet\c# day 2\sahana c1\sahana c1\bin\Debug\sahana c1.exe.config
-C:\sahana 13\sahana r dotnet\c# day 2\sahana c1\sahana c1\bin\Debug\sahana c1.exe
-C:\sahana 13\sahana r dotnet\c# day 2\sahana c1\sahana c1\bin\Debug\sahana c1.pdb
-C:\sahana 13\sahana r dotnet\c# day 2\sahana c1\sahana c1\obj\Debug\sahana c1.csproj.AssemblyReference.cache
-C:\sahana 13\sahana r dotnet\c# day 2\sahana c1\sahana c1\obj\Debug\sahana c1.csproj.CoreCompileInputs.cache
-C:\sahana 13\sahana r dotnet\c# day 2\sahana c1\sahana c1\obj\Debug\sahana c1.exe
-C:\sahana 13\sahana r dotnet\c# day 2\sahana c1\sahana c1\obj\Debug\sahana c1.pdb

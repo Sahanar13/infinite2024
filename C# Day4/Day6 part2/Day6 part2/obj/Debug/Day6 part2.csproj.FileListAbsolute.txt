@@ -1,7 +1,0 @@
-C:\sahana 13\sahana r dotnet\C# Day4\Day6 part2\Day6 part2\obj\Debug\Day6 part2.csproj.AssemblyReference.cache
-C:\sahana 13\sahana r dotnet\C# Day4\Day6 part2\Day6 part2\obj\Debug\Day6 part2.csproj.CoreCompileInputs.cache
-C:\sahana 13\sahana r dotnet\C# Day4\Day6 part2\Day6 part2\bin\Debug\Day6 part2.exe.config
-C:\sahana 13\sahana r dotnet\C# Day4\Day6 part2\Day6 part2\bin\Debug\Day6 part2.exe
-C:\sahana 13\sahana r dotnet\C# Day4\Day6 part2\Day6 part2\bin\Debug\Day6 part2.pdb
-C:\sahana 13\sahana r dotnet\C# Day4\Day6 part2\Day6 part2\obj\Debug\Day6 part2.exe
-C:\sahana 13\sahana r dotnet\C# Day4\Day6 part2\Day6 part2\obj\Debug\Day6 part2.pdb

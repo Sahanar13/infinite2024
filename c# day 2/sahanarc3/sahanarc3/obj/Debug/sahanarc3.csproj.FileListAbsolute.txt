@@ -1,7 +1,0 @@
-C:\sahana 13\sahana r dotnet\c# day 2\sahanarc3\sahanarc3\bin\Debug\sahanarc3.exe.config
-C:\sahana 13\sahana r dotnet\c# day 2\sahanarc3\sahanarc3\bin\Debug\sahanarc3.exe
-C:\sahana 13\sahana r dotnet\c# day 2\sahanarc3\sahanarc3\bin\Debug\sahanarc3.pdb
-C:\sahana 13\sahana r dotnet\c# day 2\sahanarc3\sahanarc3\obj\Debug\sahanarc3.csproj.AssemblyReference.cache
-C:\sahana 13\sahana r dotnet\c# day 2\sahanarc3\sahanarc3\obj\Debug\sahanarc3.csproj.CoreCompileInputs.cache
-C:\sahana 13\sahana r dotnet\c# day 2\sahanarc3\sahanarc3\obj\Debug\sahanarc3.exe
-C:\sahana 13\sahana r dotnet\c# day 2\sahanarc3\sahanarc3\obj\Debug\sahanarc3.pdb

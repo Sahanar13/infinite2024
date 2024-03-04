@@ -1,0 +1,7 @@
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csproj.AssemblyReference.cache
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-1\Assignment-1\bin\Debug\Assignment-1.exe.config
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-1\Assignment-1\bin\Debug\Assignment-1.exe
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-1\Assignment-1\bin\Debug\Assignment-1.pdb
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-1\Assignment-1\obj\Debug\Assignment-1.exe
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-1\Assignment-1\obj\Debug\Assignment-1.pdb
