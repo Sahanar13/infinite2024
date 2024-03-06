@@ -1,0 +1,7 @@
+C:\sahana 13\sahana r dotnet\CodeBasedTest\C# Test\Test(2)\Test(2)\bin\Debug\Test(2).exe.config
+C:\sahana 13\sahana r dotnet\CodeBasedTest\C# Test\Test(2)\Test(2)\bin\Debug\Test(2).exe
+C:\sahana 13\sahana r dotnet\CodeBasedTest\C# Test\Test(2)\Test(2)\bin\Debug\Test(2).pdb
+C:\sahana 13\sahana r dotnet\CodeBasedTest\C# Test\Test(2)\Test(2)\obj\Debug\Test(2).csproj.AssemblyReference.cache
+C:\sahana 13\sahana r dotnet\CodeBasedTest\C# Test\Test(2)\Test(2)\obj\Debug\Test(2).csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\CodeBasedTest\C# Test\Test(2)\Test(2)\obj\Debug\Test(2).exe
+C:\sahana 13\sahana r dotnet\CodeBasedTest\C# Test\Test(2)\Test(2)\obj\Debug\Test(2).pdb
