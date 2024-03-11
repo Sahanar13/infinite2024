@@ -10,14 +10,17 @@ namespace Assignment_4
     {
 
 
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Enter a list of numbers separated by commas:");
+            Console.WriteLine("Enter a list of numbers separated by spaces:");
             string input = Console.ReadLine();
-            string[] numbersString = input.Split(',');
 
+            
+            string[] numberStrings = input.Split(' ');
+
+          
             List<int> numbers = new List<int>();
-            foreach (string numString in numbersString)
+            foreach (string numString in numberStrings)
             {
                 if (int.TryParse(numString, out int num))
                 {
@@ -29,16 +32,14 @@ namespace Assignment_4
                 }
             }
 
-            Console.WriteLine("Numbers and their squares greater than 20:");
-            foreach (int number in numbers)
-            {
-                int square = number * number;
-                if (square > 20)
-                {
-                    Console.WriteLine($"{number}: {square}");
-                    Console.ReadKey();
-                }
+            
+            var result = numbers.Select(n => n * n).Where(square => square > 20);
 
+            Console.WriteLine("Numbers and their squares greater than 20:");
+            foreach (var square in result)
+            {
+                Console.WriteLine(square);
+                Console.ReadKey();
             }
         }
     }

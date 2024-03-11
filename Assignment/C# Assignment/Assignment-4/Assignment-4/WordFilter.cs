@@ -11,27 +11,26 @@ namespace Assignment_4
     {
 
 
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Enter a list of words separated by commas:");
+            Console.WriteLine("Enter a list of words separated by spaces:");
             string input = Console.ReadLine();
-            string[] words = input.Split(',');
 
-            List<string> filteredWords = new List<string>();
-            foreach (string word in words)
-            {
-                if (word.StartsWith("a", StringComparison.OrdinalIgnoreCase) &&
-                    word.EndsWith("m", StringComparison.OrdinalIgnoreCase))
-                {
-                    filteredWords.Add(word);
-                }
-            }
+           
+            string[] wordArray = input.Split(' ');
 
+            
+            List<string> words = wordArray.ToList();
+
+            
+            var result = words.Where(word => word.StartsWith("a", StringComparison.OrdinalIgnoreCase) && word.EndsWith("m", StringComparison.OrdinalIgnoreCase));
+
+           
             Console.WriteLine("Words starting with 'a' and ending with 'm':");
-            foreach (string filteredWord in filteredWords)
+            foreach (var word in result)
             {
-                Console.WriteLine(filteredWord);
-                Console.ReadLine();
+                Console.WriteLine(word);
+                Console.ReadKey();
             }
         }
     }
