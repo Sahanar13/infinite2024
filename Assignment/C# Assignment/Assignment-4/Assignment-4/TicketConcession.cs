@@ -23,6 +23,7 @@ namespace Assignment_4
 
                 TicketConcession.TicketConcession concession = new TicketConcession.TicketConcession();
                 concession.CalculateConcession(age);
+                Console.ReadKey();
             }
         }
     }
