@@ -1,0 +1,6 @@
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-4\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-4\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-4\ClassLibrary1\obj\Debug\TicketConcession.csproj.AssemblyReference.cache
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-4\ClassLibrary1\obj\Debug\TicketConcession.csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-4\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\sahana 13\sahana r dotnet\Assignment\C# Assignment\Assignment-4\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
