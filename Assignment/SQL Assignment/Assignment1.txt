@@ -45,7 +45,7 @@ CREATE TABLE tblProjects (
     Descr VARCHAR(30) NOT NULL,
     Start_Date DATE,
     Planned_End_Date DATE,
-    Actual_End_date AS CONVERT(DATE, GETDATE()), -- Default to current date
+    Actual_End_date AS CONVERT(DATE, GETDATE()),
     Budget VARCHAR(10) CHECK (Budget > 0),
     Client_ID VARCHAR(4),
     FOREIGN KEY (Client_ID) REFERENCES tblClients(Client_ID)
