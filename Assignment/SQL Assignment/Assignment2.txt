@@ -2,7 +2,7 @@ use Assignment
 
 
 CREATE TABLE tblEMP (
-    empno VARCHAR(10) PRIMARY KEY,
+    empno INT PRIMARY KEY,
     ename VARCHAR(50),
     job VARCHAR(50),
     mgr_id INT,
@@ -31,7 +31,7 @@ VALUES
 Select * from tblEMP
 
 CREATE TABLE tblDEPT (
-    deptno VARCHAR(10) PRIMARY KEY,
+    deptno INT PRIMARY KEY,
     dname VARCHAR(50),
     loc VARCHAR(50))
 
