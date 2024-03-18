@@ -1,7 +1,7 @@
 Create database Assignment
 
 CREATE TABLE tblClients (
-    Client_ID Varchar(4) PRIMARY KEY,
+    Client_ID Int PRIMARY KEY,
     Cname Varchar(40) Not Null, 
     Address Varchar(30),
     Email Varchar(30) UNIQUE,
@@ -16,7 +16,7 @@ Insert into  tblClients VALUES (1001, 'ACME Utilities', 'Noida', 'contact@acmeut
  Select * from tblClients
 
  CREATE TABLE tblEmployees (
-     Empno Varchar(4) PRIMARY KEY,
+     Empno int PRIMARY KEY,
     Ename Varchar(20) NOT NULL,
     Job Varchar(15),
     Salary Varchar(7) CHECK (Salary > 0),
