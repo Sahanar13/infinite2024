@@ -20,7 +20,7 @@ Insert into  tblClients VALUES (1001, 'ACME Utilities', 'Noida', 'contact@acmeut
     Ename Varchar(20) NOT NULL,
     Job Varchar(15),
     Salary Varchar(7) CHECK (Salary > 0),
-    Deptno Varchar(2),
+    Deptno int,
     CONSTRAINT fk_Deptno FOREIGN KEY (Deptno) REFERENCES tblDepartments(Deptno))
 
 INSERT INTO tblEmployees VALUES (7001, 'Sandeep', 'Analyst', 25000, 10), (7002, 'Rajesh', 'Designer', 30000, 10), (7003, 'Madhav', 'Developer', 40000, 20),
@@ -30,7 +30,7 @@ INSERT INTO tblEmployees VALUES (7001, 'Sandeep', 'Analyst', 25000, 10), (7002, 
   Select * from tblEmployees
 
 	CREATE TABLE tblDepartments (
-    Deptno Varchar(2) PRIMARY KEY,
+    Deptno Int PRIMARY KEY,
     Dname Varchar(15) NOT NULL,
     Loc Varchar(20))
 
@@ -41,13 +41,13 @@ Select * from tblDepartments
 
 
 CREATE TABLE tblProjects (
-    Project_ID VARCHAR(3) PRIMARY KEY,
+    Project_ID Int PRIMARY KEY,
     Descr VARCHAR(30) NOT NULL,
     Start_Date DATE,
     Planned_End_Date DATE,
     Actual_End_date AS CONVERT(DATE, GETDATE()),
     Budget VARCHAR(10) CHECK (Budget > 0),
-    Client_ID VARCHAR(4),
+    Client_ID int,
     FOREIGN KEY (Client_ID) REFERENCES tblClients(Client_ID)
 )
 
@@ -64,7 +64,7 @@ Select * from tblProjects
 
 
 CREATE TABLE tblEmpProjectTasks (
-    Project_ID Varchar(3),
+    Project_ID Int Primary Key,
     Empno Varchar(4),
     Start_Date DATE,
     End_Date DATE,
