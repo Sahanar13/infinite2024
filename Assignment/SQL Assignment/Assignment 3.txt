@@ -1,0 +1,61 @@
+use Assignment
+
+SELECT * FROM tblEMP WHERE job = 'MANAGER'
+
+
+SELECT ename, sal FROM tblEMP WHERE sal > 1000
+
+
+SELECT ename, sal FROM tblEMP WHERE ename != 'JAMES'
+
+SELECT * FROM tblEMP WHERE ename LIKE 'S%'
+
+SELECT ename FROM tblEMP WHERE ename LIKE '%A%'
+
+SELECT ename FROM tblEMP WHERE ename LIKE '__L%'
+
+SELECT sal / 30 AS daily_salary FROM tblEMP WHERE ename = 'JONES'
+
+SELECT SUM(sal) AS monthly_salary FROM tblEMP
+
+SELECT AVG(sal * 12) AS average_annual_salary FROM tblEMP
+
+SELECT ename, job, sal, deptno FROM tblEMP 
+WHERE deptno = 30 AND job != 'SALESMAN'
+
+SELECT DISTINCT deptno FROM tblEMP
+
+SELECT * FROM tblEMP
+
+SELECT ename AS 'Employee', sal AS 'Monthly Salary' FROM tblEMP
+WHERE sal > 1500 AND (deptno = 10 OR deptno = 30)
+
+SELECT ename, job, sal FROM tblEMP 
+WHERE (job = 'MANAGER' OR job = 'ANALYST')
+       AND sal NOT IN (1000, 3000, 5000)
+
+
+SELECT ename, sal, comm FROM tblEMP 
+WHERE comm > sal * 1.10
+
+SELECT ename FROM tblEMP 
+WHERE (ename LIKE '%L%L%' AND deptno = 30) OR mgr_id = 7782
+
+
+
+SELECT ename  , datediff(year , hiredate , getdate())AS experience FROM tblEMP
+WHERE datediff(year , hiredate ,getdate()) between 30 and 40
+ 
+SELECT count(*) AS Total_No_Of_Employees
+FROM tblEMP WHERE datediff(year , hiredate ,getdate()) between 30 and 40
+
+
+
+SELECT d.dname, e.ename FROM tblDEPT d
+ JOIN tblEMP e ON d.deptno = e.deptno 
+ ORDER BY d.dname ASC, e.ename DESC
+
+
+SELECT ename, DATEDIFF(day, hiredate, GETDATE()) / 365 AS experience
+FROM tblEMP
+WHERE ename = 'MILLER'
