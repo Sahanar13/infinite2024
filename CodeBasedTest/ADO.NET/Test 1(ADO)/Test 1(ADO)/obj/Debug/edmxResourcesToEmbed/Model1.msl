@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EmployeemanagementModelStoreContainer" CdmEntityContainer="EmployeemanagementEntities">
+    <EntitySetMapping Name="Employee_Details">
+      <EntityTypeMapping TypeName="EmployeemanagementModel.Employee_Details">
+        <MappingFragment StoreEntitySet="Employee_Details">
+          <ScalarProperty Name="Empno" ColumnName="Empno" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="Empsal" ColumnName="Empsal" />
+          <ScalarProperty Name="Emptype" ColumnName="Emptype" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="AddEmployee" FunctionName="EmployeemanagementModel.Store.AddEmployee" />
+  </EntityContainerMapping>
+</Mapping>

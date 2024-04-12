@@ -1,0 +1,12 @@
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\bin\Debug\Test 1(ADO).exe.config
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\bin\Debug\Test 1(ADO).exe
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\bin\Debug\Test 1(ADO).pdb
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\bin\Debug\EntityFramework.dll
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\bin\Debug\EntityFramework.SqlServer.dll
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\bin\Debug\EntityFramework.xml
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\bin\Debug\EntityFramework.SqlServer.xml
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\obj\Debug\Test 1(ADO).csproj.AssemblyReference.cache
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\obj\Debug\Test 1(ADO).csproj.CoreCompileInputs.cache
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\obj\Debug\Test 1(ADO).csproj.CopyComplete
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\obj\Debug\Test 1(ADO).exe
+C:\sahana 13\sahana r dotnet\CodeBasedTest\ADO.NET\Test 1(ADO)\Test 1(ADO)\obj\Debug\Test 1(ADO).pdb
