@@ -5,7 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace Test_1_ADO_
 {
     class Program
@@ -15,6 +14,8 @@ namespace Test_1_ADO_
             Console.WriteLine("Welcome to Employee Management");
 
             bool running = true;
+
+            string connectionString = "Data Source=ICS-LT-9R368G3\\SQLEXPRESS;Initial Catalog=Employeemanagement;Integrated Security=True";
 
             while (running)
             {
@@ -31,7 +32,7 @@ namespace Test_1_ADO_
                     case 1:
                         try
                         {
-                            AddEmployee();
+                            AddEmployee(connectionString);
                         }
                         catch (SqlException ex)
                         {
@@ -39,7 +40,7 @@ namespace Test_1_ADO_
                         }
                         break;
                     case 2:
-                        ViewEmployeeDetails();
+                        ViewEmployeeDetails(connectionString);
                         break;
                     case 3:
                         running = false;
@@ -51,7 +52,7 @@ namespace Test_1_ADO_
             }
         }
 
-        static void AddEmployee()
+        static void AddEmployee(string connectionString)
         {
             Console.Write("Enter Employee Name: ");
             string empName = Console.ReadLine();
@@ -62,38 +63,50 @@ namespace Test_1_ADO_
             Console.Write("Enter Employee Type ('P' or 'C'): ");
             string empType = Console.ReadLine();
 
-            using (var context = new EmployeemanagementEntities())
+            using (SqlConnection connection = new SqlConnection(connectionString))
             {
-                context.Database.ExecuteSqlCommand("EXEC AddEmployee @EmpName, @Empsal, @Emptype",
-                    new SqlParameter("@EmpName", empName),
-                    new SqlParameter("@Empsal", empSal),
-                    new SqlParameter("@Emptype", empType));
+                connection.Open();
+
+                using (SqlCommand command = new SqlCommand("AddEmployee", connection))
+                {
+                    command.CommandType = System.Data.CommandType.StoredProcedure;
+                    command.Parameters.AddWithValue("@EmpName", empName);
+                    command.Parameters.AddWithValue("@Empsal", empSal);
+                    command.Parameters.AddWithValue("@Emptype", empType);
+
+                    command.ExecuteNonQuery();
+                }
             }
 
             Console.WriteLine("Employee details added successfully!");
-            ViewEmployeeDetails();
+            ViewEmployeeDetails(connectionString);
         }
 
-        static void ViewEmployeeDetails()
+        static void ViewEmployeeDetails(string connectionString)
         {
-            using (var context = new EmployeemanagementEntities())
+            using (SqlConnection connection = new SqlConnection(connectionString))
             {
-                var employeeDetails = context.Employee_Details.ToList();
+                connection.Open();
 
-                if (employeeDetails.Any())
+                using (SqlCommand command = new SqlCommand("SELECT * FROM Employee_Details", connection))
                 {
-                    Console.WriteLine("Employee Details:");
-                    foreach (var emp in employeeDetails)
+                    using (SqlDataReader reader = command.ExecuteReader())
                     {
-                        Console.WriteLine($"Empno: {emp.Empno}, EmpName: {emp.EmpName}, Empsal: {emp.Empsal}, Emptype: {emp.Emptype}");
+                        if (reader.HasRows)
+                        {
+                            Console.WriteLine("Employee Details:");
+                            while (reader.Read())
+                            {
+                                Console.WriteLine($"Empno: {reader.GetInt32(0)}, EmpName: {reader.GetString(1)}, Empsal: {reader.GetDecimal(2)}, Emptype: {reader.GetString(3)}");
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("No employee details found.");
+                        }
                     }
-                }
-                else
-                {
-                    Console.WriteLine("No employee details found.");
                 }
             }
         }
     }
 }
-
